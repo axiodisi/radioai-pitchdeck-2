@@ -7,7 +7,6 @@ import {
   DollarSign,
   Target,
   Lock,
-  Users,
   Network,
 } from "lucide-react";
 
